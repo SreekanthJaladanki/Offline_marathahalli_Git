@@ -1,0 +1,5 @@
+
+skills:python
+sql
+aws
+django
