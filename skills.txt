@@ -1,0 +1,9 @@
+skills-
+--------
+PYTHON
+DEVOPS
+SQL
+AWS
+HTML
+CSS
+JAVASCRIPT
