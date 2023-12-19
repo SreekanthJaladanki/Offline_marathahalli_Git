@@ -1,0 +1,6 @@
+Name:L.Dwarakanath Reddy
+College:KSRM college of Eng.
+Branch:Civil Engineering
+CGPA:7.98
+passout :2023
+place:Andhrapradesh,kadapa

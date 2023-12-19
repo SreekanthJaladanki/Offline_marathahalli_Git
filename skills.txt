@@ -1,0 +1,1 @@
+skills:python,SQL,html,css,AWS
