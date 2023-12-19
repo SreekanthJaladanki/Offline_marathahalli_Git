@@ -4,3 +4,6 @@ PYTHON
 JAVASCRIPT
 HTML ,CSS
 SQL
+C
+Cybersecurity Basics
+Django Framework
