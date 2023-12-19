@@ -1,0 +1,6 @@
+name = Aman Baghel
+passout = MCA(2022)
+MCA = 74 %
+Bsc = 50.50 %
+12th = 72.2 %
+10th = 78.8 %
