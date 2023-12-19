@@ -1,0 +1,24 @@
+DevOps
+•	DevOps tools: Git- good at branching, merge conflict, Linux, Jenkins CI CD pipelines, Creating Containers using Docker, Container orchestration by  Kubernetes.
+•	AWS(Ec2 using Ec2 create instant resources and connect Ec2  to S3 bucket using IAM.
+•	 S3 use to create S3 buckets.
+•	VPC create VPC and Subnets.
+•	IAM can create permissions for roles.
+•	Devops maintain serverless application using AWS Lambda.
+•	cloud watch to monitor all the resources ,route53).
+•	Good knowledge on version control and Cloud computing script programming.
+*       good knoledge on GIT
+
+PYTHON
+  can implement program using a Functional Recursion, Procedural approaches.
+  Good knowledge on OOPS (Inheritance, Encapsulation, Polymorphism, Abstraction).
+  clear understanding of Decorators, singleton class, Exception handling.
+   Good in Regular Expression and meta characters. 
+
+WEB DEVELOPMENT
+  Practical Knowledge of front-end technologies(HTML, CSS, JAVA Script ).
+   Able to create dynamic and responsive website.
+
+SQL
+  DQL, DML, TCL, DDL, DCL, joins, functions, sub-query and normalization.
+tion.
