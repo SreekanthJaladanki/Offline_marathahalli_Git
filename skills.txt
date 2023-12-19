@@ -1,0 +1,6 @@
+Skills:
+python
+web technology
+sql
+django
+aws

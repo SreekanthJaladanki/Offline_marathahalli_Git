@@ -1,0 +1,6 @@
+Name    : Ruchita tamada
+Branch  : Electronics and communication engineering
+College : Pydah college of engg and tech
+Location: visakhapatnam
+YOP     : 2022
+Percent :72%
