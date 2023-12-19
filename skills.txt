@@ -1,1 +1,1 @@
-Skills - php, python, sql, laravel, AWS
+Skills - php, python, sql, laravel, AWS, HTML, CSS
