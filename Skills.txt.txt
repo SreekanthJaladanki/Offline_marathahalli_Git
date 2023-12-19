@@ -1,0 +1,6 @@
+skills-
+Python
+Hml,css,bootstrap
+sql
+AWS
+Devops
