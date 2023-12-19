@@ -1,6 +1,6 @@
-AWS
-DEVOPS
-PYTHON
-JAVASCRIPT
-HTML ,CSS
-SQL
+AWS (Ec2,S3,IAM,lamada,clodwatch,cloudshell,
+DEVOPS (tools,git,Linux maven ,docker ,
+PYTHON (fuction ,oops,abstract,lamada)
+JAVASCRIPT(not start)
+HTML ,CSS css animation ,css html fontrs
+SQL(not star)
