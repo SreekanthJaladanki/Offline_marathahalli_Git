@@ -1,0 +1,20 @@
+Developing Skills:
+		Core Java
+		Backend Java (Spring Boot, REST API)
+
+OS:
+	LINUX (Ubuntu)
+
+DevOps:
+	Docker
+	Kubernetes
+	Ansible
+	Terraform
+	Jenkins
+	
+Cloud:
+	AWS
+	GCP
+	
+Scripting:
+	Bash Scripting
