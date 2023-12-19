@@ -1,0 +1,6 @@
+Name:kiran
+qualification:B.E(information science)
+year of pass:2023
+college:east point college
+place:Bangalore
+
