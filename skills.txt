@@ -1,6 +1,5 @@
+
+Python
+Devops learning
 AWS
-DEVOPS
-PYTHON
-JAVASCRIPT
-HTML ,CSS
 SQL
