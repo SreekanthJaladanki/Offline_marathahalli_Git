@@ -1,0 +1,2 @@
+Skills:-
+Python,Devops,Django,AWS,Web Technologies,SQL,git,github
