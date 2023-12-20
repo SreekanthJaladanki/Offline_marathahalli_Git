@@ -1,0 +1,4 @@
+name:challa venkateswarulu
+y.o.p:2023
+eng back:civil engineering
+percentage:72%
